@@ -11,7 +11,7 @@ Everybody _says_ they do CI&D. I have not had _nearly_ enough [mojitos](https://
 
 My hunch is that this is about the daily work of engineering. What does daily reproducible progress look like? Are your people getting something done every single day, even if it's something small?
 
-*I don't drink. Certain butler-themed applications have occasionally made me reconsider this decision.
+*I don't drink. Certain butler-themed applications used for these purposes have occasionally made me revisit this decision.
 
 ## Data Science
 
