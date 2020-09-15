@@ -39,6 +39,16 @@ I keep thinking there has to be a way to make the setup and operation of this ea
 * [`NightScoutFoundation` on GitHub](https://github.com/NightscoutFoundation)
 
 
+# Applications I Like
+
+I'm an old terminal jockey at heart. I speak [HTTPie](https://httpie.org/) to microservices, [`jq`](https://stedolan.github.io/jq/) to objects in JSON, and [`q`](https://github.com/harelba/q) to CSVs.
+
+I've also been very impressed with a lot of the stuff coming out of the Rust community and [crates.io](https://crates.io/) lately, but my newest, bestest friends are [`exa`](https://the.exa.website/) and [bottom](https://github.com/ClementTsang/bottom).
+
+In my recent work with Python, I came across [pipx](https://pipxproject.github.io/pipx/) and [glances](https://nicolargo.github.io/glances/), which have also been very helpful.
+
+I'm very happy with my subscriptions to the [JetBrains](https://www.jetbrains.com/) suite of products and [O'Reilly Learning](https://learning.oreilly.com/).
+
 # People I Know
 
 * [ingernet](https://github.com/ingernet)
