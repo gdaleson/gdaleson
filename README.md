@@ -23,11 +23,11 @@ I'd really like to get this kind of work done safely, but I suspect we're still 
 
 ## Microservices
 
-One microservice is easy. Multiple microservices are not so easy. Sometimes, when microservices depend on each other, it can drive people madder than a bastard on Father's Day.
+One microservice is easy. Multiple microservices are not so easy. Sometimes, when microservices depend on each other, it can enrage people to the point of arson.
 
 ## Kubernetes
 
-I can _spell_ it. At some point I really should learn more about it.
+I can _spell_ it, at least. I've gotten to use it some, and, while it's certainly not the most intuitive piece of software on this green and verdant earth, I have high hopes. That said, if I run across one more tool that tries to elevate YAML to a programming language, _I_ might be the next thing to dump core.
 
 ## [Nightscout](http://www.nightscout.info/) & [The Nightscout Foundation](https://www.nightscoutfoundation.org/)
 
