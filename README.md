@@ -9,7 +9,9 @@
 
 Everybody _says_ they do CI&D. I have not had _nearly_ enough [mojitos](https://twitter.com/jezhumble/status/910202369354297344)* for this to be true.
 
-My hunch is that this is about the daily work of engineering. What does daily reproducible progress look like? Are your people getting something done every single day, even if it's something small?
+On one hand, this is about the daily work of engineering. What does daily reproducible progress look like? Are your people getting something done every single day, even if it's something small?
+
+On the other, what's actually getting through to your customers? How long does it take to get new features and bugfixes all the way through to the point where customers are using them?
 
 *I don't drink. Certain butler-themed applications used for these purposes have occasionally made me revisit this decision.
 
@@ -19,11 +21,15 @@ There's a lot going on here. The field is maybe a decade old or so, and there ar
 
 On the other hand, sometimes [it _explodes_](https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html).
 
-I'd really like to get this kind of work done safely, but I suspect we're still in the early phases. I'd settle for doing it reproducibly.
+I'd really like to get this kind of work done safely, but we're still in the early phases. I'd settle for doing it reliably, and, someday, we might even have some idea of how well our applications are working.
 
 ## Microservices
 
 One microservice is easy. Multiple microservices are not so easy. Sometimes, when microservices depend on each other, it can enrage people to the point of arson.
+
+HTTP and JSON aren't too bad by themselves, but pretty soon you'll start needing to use mock services, and after that, you can end up needing dynamic mock services. If that sounds suspiciously like another microservice, that's because in point of fact it _is_ another microservice.
+
+I'm pretty sure the next step involves hurling the computer off the roof, and that's before SOAP and XML get involved.
 
 ## Kubernetes
 
